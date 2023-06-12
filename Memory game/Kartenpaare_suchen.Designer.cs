@@ -30,7 +30,6 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Kartenpaare_suchen));
-            this.label_Punkte = new System.Windows.Forms.Label();
             this.label_Versuche = new System.Windows.Forms.Label();
             this.label_Kartenpaare_suchen = new System.Windows.Forms.Label();
             this.label_verbleibende_Zeit = new System.Windows.Forms.Label();
@@ -72,18 +71,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.SuspendLayout();
-            // 
-            // label_Punkte
-            // 
-            this.label_Punkte.AutoSize = true;
-            this.label_Punkte.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.label_Punkte.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_Punkte.ForeColor = System.Drawing.Color.White;
-            this.label_Punkte.Location = new System.Drawing.Point(51, 55);
-            this.label_Punkte.Name = "label_Punkte";
-            this.label_Punkte.Size = new System.Drawing.Size(135, 39);
-            this.label_Punkte.TabIndex = 0;
-            this.label_Punkte.Text = "Punkte:";
             // 
             // label_Versuche
             // 
@@ -369,7 +356,6 @@
             this.Controls.Add(this.label_verbleibende_Zeit);
             this.Controls.Add(this.label_Kartenpaare_suchen);
             this.Controls.Add(this.label_Versuche);
-            this.Controls.Add(this.label_Punkte);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Kartenpaare_suchen";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
@@ -396,8 +382,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Label label_Punkte;
         private System.Windows.Forms.Label label_Versuche;
         private System.Windows.Forms.Label label_Kartenpaare_suchen;
         private System.Windows.Forms.Label label_verbleibende_Zeit;
