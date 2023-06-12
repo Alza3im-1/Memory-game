@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRlMmI0MzllZTk5ODJjYzJkNjFiODE0ZDA3YjRlNGUyMTc0MjM5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif" alt="MasterHead">
 </div>
-
 <h1 align="center">Moin, hier ist Anwar</h1>
 <h3 align="center">Ein Programmieranfänger</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
