@@ -1,6 +1,6 @@
 <h1 align="center">Moin, hier ist Anwar</h1>
 <h3 align="center">Ein Programmieranfänger</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2pkP6_MV4RvK2jTII4HBxN&ust=1686657862397000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDqrKjYvf8CFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 Ich arbeite derzeit an einem **Memory-Game-Projekt**
 
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/s_a_n_w_a_r_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_a_n_w_a_r_h" height="30" width="40" /></a>
-<a href="https://discord.gg/Alza3im#9307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alza3im#9307" height="30" width="40" /></a>
+<a href="https://discord.gg/9307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alza3im#9307" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
