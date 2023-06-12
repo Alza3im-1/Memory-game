@@ -24,7 +24,7 @@ namespace Memory_game
             {
                 // Erstellung einer Instanz der Datamodule-Klasse mit den Verbindungsinformationen zur Datenbank
                 DM = new Datamodule("SYSDBA", "masterkey",
-                               @"C:\Users\anwar\Documents\Github\MEMORY_GAME-DB.FDB",
+                               @"C:\Users\anwar\Documents\Projektprüfung\Memory-Spiele-Github\MEMORY_GAME-DB.FDB",
                                "localhost", 3050);
             }
             catch (Exception ex)
