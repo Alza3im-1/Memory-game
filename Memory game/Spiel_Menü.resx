@@ -121,11 +121,32 @@
     <value>17, 17</value>
   </metadata>
   <data name="lb_Text_Info.Text" xml:space="preserve">
-    <value>Speicherung von Spielernamen und score in einer Datenbank.
-Wissenschaftliche Fragestellung: Wie kann ein Memory-Spiel entwickelt werden, das
-kognitive Fähigkeiten hera usfordert und Fortschritte der Spieler aufzeichnet?
-Soll-Konzept: Intuitive Benutzeroberfläche, mehrere Levels zur Herausforderung
-verschiedener Levels, Datenbank zur Speicherung von score</value>
+    <value>Projektdefinition:
+
+• Projektziel: Das Hauptziel dieses Projekts besteht darin, ein Memory-Spiel zu entwickeln, das die 
+Benutzer dabei unterstützt, ihr Gedächtnis zu trainieren und gleichzeitig Spaß zu haben.
+• Anforderungen: Um das Ziel zu erreichen, müssen verschiedene Anforderungen erfüllt werden, wie 
+die Implementierung von Datenbank und die Entwicklung einer Benutzer Oberfläche.
+• Einschränkungen: Die Entwicklung des Spiels beschränkt sich auf die Windows-Plattform und auf 
+einem bestimmten Datenbank Version.
+• Mehrwert für den Benutzer: Der Mehrwert für den Benutzer liegt darin, sein Gedächtnis zu 
+verbessern und eine unterhaltsame Spielerfahrung zu haben. Bei der ersten Veröffentlichung nicht 
+so sehr, aber schon bei den kommenden Veröffentlichungen
+
+ Zielsetzung:
+
+Das Hauptziel dieser Dokumentation besteht darin, einen umfassenden Leitfaden zur Verfügung zu 
+stellen, der die Entwicklung eines Memory-Spiels in Windows Forms abdeckt.
+S e i t e 7 | 39
+Der Fokus liegt darauf, die Leser Schritt für Schritt durch die verschiedenen Phasen der Entwicklung 
+zu führen, einschließlich des Designs der Benutzeroberfläche und der Speicherung von Spielstän&#x2;den.
+Die Dokumentation bietet detaillierte Erklärungen zum Code, Design und weiters. Das Memory&#x2;Spiel hat 3 Spiele 
+Kartenpaare spiel.
+Puzzle.
+Wörter Rechtschreibung raten.
+Und in dieser Dokumentation wird Spezifik auf das Kartenpaare spiel konzentriert und restlichen 
+zwei oberflächlich betrachtet.
+Am Ende der Dokumentation sollen die Leser ungefähre einen Überblick haben, wie</value>
   </data>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>25</value>

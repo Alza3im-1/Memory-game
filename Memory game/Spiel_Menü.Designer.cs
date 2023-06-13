@@ -507,9 +507,10 @@
             this.pnlInfo.Controls.Add(this.Bt_Exit_Info);
             this.pnlInfo.Controls.Add(this.lb_Text_Info);
             this.pnlInfo.Controls.Add(this.label9);
-            this.pnlInfo.Location = new System.Drawing.Point(1655, 127);
+            this.pnlInfo.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pnlInfo.Location = new System.Drawing.Point(0, 0);
             this.pnlInfo.Name = "pnlInfo";
-            this.pnlInfo.Size = new System.Drawing.Size(237, 206);
+            this.pnlInfo.Size = new System.Drawing.Size(1904, 1041);
             this.pnlInfo.TabIndex = 31;
             // 
             // Bt_Exit_Info
@@ -531,10 +532,10 @@
             // lb_Text_Info
             // 
             this.lb_Text_Info.AutoSize = true;
-            this.lb_Text_Info.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lb_Text_Info.Location = new System.Drawing.Point(421, 238);
+            this.lb_Text_Info.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_Text_Info.Location = new System.Drawing.Point(355, 203);
             this.lb_Text_Info.Name = "lb_Text_Info";
-            this.lb_Text_Info.Size = new System.Drawing.Size(1031, 155);
+            this.lb_Text_Info.Size = new System.Drawing.Size(1223, 754);
             this.lb_Text_Info.TabIndex = 1;
             this.lb_Text_Info.Text = resources.GetString("lb_Text_Info.Text");
             // 
