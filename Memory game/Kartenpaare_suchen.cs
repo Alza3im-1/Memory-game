@@ -55,7 +55,7 @@ namespace Memory_game
         }
 
         /*#region kommentar
-        überprüft wird, ob tagValue zwischen 1 und 8 liegt.Wenn ja, wird der entsprechende Ressourcenname generiert und 
+        überprüft wird, ob tagValue/ Tagwert zwischen 1 und 8 liegt.Wenn ja, wird der entsprechende Ressourcenname generiert und 
         die entsprechende Ressource abgerufen und der Image-Eigenschaft der PictureBox 
         zugewiesen.Andernfalls wird das Bild "frage" aus den Resources verwendet.
         #endregion
