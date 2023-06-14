@@ -30,7 +30,7 @@ namespace Memory_game
                 {
                     if (i < Wörter.Count - 1)
                     {
-                        MessageBox.Show("Richtig!", "HAst du gut Gemacht :} ");
+                        MessageBox.Show("Richtig!", "Weiter so :} ");
                         textBox1.Text = "";
                         i += 1;
                         newText = Buchstaben_mischen(Wörter[i]);
@@ -41,7 +41,7 @@ namespace Memory_game
                     }
                     else
                     {
-                        lb_Text.Text = "Du hast gewonnen, gut gemacht :}";
+                        lb_Text.Text = "Du hast gewonnen, Wie schlau bist du denn!! :}";
                         return;
                     }
                 }
@@ -76,6 +76,8 @@ namespace Memory_game
             Wörter.Add("Löwe");
             Wörter.Add("Vogel");
             Wörter.Add("Wolke");
+            Wörter.Add("Schuster");
+            Wörter.Add("El-Khatib");
 
 
             Random zufall = new Random();
