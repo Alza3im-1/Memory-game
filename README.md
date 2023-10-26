@@ -11,7 +11,7 @@
 
 - 💬 Frag mich etwas über **Alles**
 
-- 📫 So erreichen Sie mich **shehadehanwar16@gmail.com**
+- 📫 So erreichen Sie mich **anwshehadeh@smail.hs-bremerhaven.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
